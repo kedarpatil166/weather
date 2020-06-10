@@ -1,6 +1,8 @@
 # weather
 Python code for weather
-import reueats
+
+
+import requests
 from bs import Beautiful
 search="weather in India"
 url=f"https://www.yahoo.com/search/&q={search}"
